@@ -1,1 +1,1 @@
-print("Le ciel est bleu, La vie est belle ...")
+print("Le ciel est super beau aujourd'hui , La vie est belle ..")
