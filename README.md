@@ -12,5 +12,10 @@
 
 ## Pull Request
 
-## Merge
+## Merge (Fusion)
+
+## Cloner un depot depuis github
+
+## Push & Pull
+
 
