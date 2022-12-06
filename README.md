@@ -1,6 +1,16 @@
 # Test1-A13
-Allo
-Ceci est un commit
-Ceci est un autre commit.
-commit
-Modif de Tri
+
+## Initialiser Repository
+
+## Ajouter des collaborateurs 
+
+## Créer un commit
+
+## Créer une branche
+
+## Gérer des conflit de merge
+
+## Pull Request
+
+## Merge
+
